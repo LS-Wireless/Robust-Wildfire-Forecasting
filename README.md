@@ -30,7 +30,6 @@ Satellite-derived wildfire observations are often incomplete due to cloud cover,
 ├── data-preprocessing/
 ├── stage-1-reconstruction/
 ├── stage-2-forecasting/
-├── .gitignore
 └── requirements.txt
 ```
 
@@ -186,3 +185,7 @@ This repository is based on experiments conducted using the publicly available *
 For questions about the paper, codebase, or implementation details, please contact the authors through their institutional affiliations listed in the paper.
 
 You may also open an issue in this repository for bug reports, questions, or suggestions related to the code.
+
+---
+
+© 2025 Mehdi Zafari. All rights reserved.
