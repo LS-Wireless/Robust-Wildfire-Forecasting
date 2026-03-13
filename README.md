@@ -165,10 +165,13 @@ If you use this repository, please cite:
 
 ```bibtex
 @article{yang2026robustwildfire,
-  title={Robust Wildfire Forecasting under Partial Observability: From Reconstruction to Prediction},
-  author={Yang, Chen and Zafari, Mehdi and Duan, Ziheng and Swindlehurst, A. Lee},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+ title={Robust Wildfire Forecasting under Partial Observability: From Reconstruction to Prediction}, 
+ author={Chen Yang and Mehdi Zafari and Ziheng Duan and A. Lee Swindlehurst},
+ year={2026},
+ eprint={2603.09042},
+ archivePrefix={arXiv},
+ primaryClass={eess.IV},
+ url={https://arxiv.org/abs/2603.09042}, 
 }
 ```
 
@@ -188,4 +191,4 @@ You may also open an issue in this repository for bug reports, questions, or sug
 
 ---
 
-© 2025 Mehdi Zafari. All rights reserved.
+© 2026 LS Wireless Group • University of California, Irvine • All rights reserved.
